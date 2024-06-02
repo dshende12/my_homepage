@@ -11,7 +11,7 @@
     <div class="container">
         <section class="section">
             <h2>About Me</h2>
-            <p>I am Dhirajkumar Shende, recently completed a PG Diploma in Space and Atmospheric Sciences from UN-CSSTEAP(PRL). I have completed my MSc in Physics from Sant Gadge Baba Amravati University and BSc in Physics, Chemistry, and Mathematics from Shri Shivaji Science College.</p>
+            <p>I am Dhirajkumar Shende, recently graduated from a PG Diploma in Space and Atmospheric Sciences conducted by Physical Research Laboratory, Ahmedabad and affialted to UN-CSSTEAP. I have completed my MSc in Physics from Sant Gadge Baba Amravati University and BSc in Physics, Chemistry, and Mathematics from Shri Shivaji Science College.</p>
         </section>
         <section class="section">
             <h2>Education</h2>
